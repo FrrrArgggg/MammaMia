@@ -1,4 +1,8 @@
-# static.py
+HTML = """ 
+"""
+Fork of the Mammamia github project. Testing out
+some functionalities
+"""
 
 HTML = """
 <!DOCTYPE html>
